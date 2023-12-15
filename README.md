@@ -2,7 +2,7 @@ L4D2@UESTC是**目前仍在泥电上学的一群人**，*他们喜欢玩L4D2，�
 
 因此，他们组成了==**L4D2@UESTC**==用户组+服务器社区，他们**~~依托校园网~~自建了一个24小时稳定运行的小型的服务器**（支持IPv4与PIv6），用来跑L4D2服务器，以便在泥电上玩L4D2。
 
-官网：[L4D2@UESTC](l4d2-at-uestc.github.io)
+官网：[L4D2@UESTC](https://l4d2-at-uestc.github.io)
 
 ---
 
